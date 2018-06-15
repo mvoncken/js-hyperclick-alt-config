@@ -1,8 +1,17 @@
+# js-hyperclick-alt-config package
+
+Forked from js-hyperclick 1.13.0 (pre release)
+
+We're using webpack aliases but not every developer uses atom.
+It's not accaptable to pollute package.json with editor-settings.
+
+All documentation below applies except forthe "moduleRoots" config: js-hyperclick.json is used instead of package.json
+
 # js-hyperclick package
 
 A [hyperclick][hyperclick] provider that lets you jump to where variables are defined.
 
-![screenshot]( https://raw.githubusercontent.com/AsaAyers/js-hyperclick/master/screenshots/Selection_107.png)
+![screenshot](https://raw.githubusercontent.com/AsaAyers/js-hyperclick/master/screenshots/Selection_107.png)
 
 This project was created primarily to assist navigating projects that use many
 small modules. This project solves some of my problems and I share it in the
