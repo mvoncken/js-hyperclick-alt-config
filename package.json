@@ -2,8 +2,7 @@
   "name": "js-hyperclick-alt-config",
   "main": "./lib/js-hyperclick",
   "version": "1.13.0",
-  "description":
-    "A fork of js-hyperclick with an alternative location for moduleRoots",
+  "description": "A fork of js-hyperclick with an alternative location for moduleRoots",
   "keywords": [],
   "repository": "https://github.com/AsaAyers/js-hyperclick",
   "license": "MIT",
@@ -23,7 +22,9 @@
       "git add"
     ]
   },
-  "package-deps": ["hyperclick"],
+  "package-deps": [
+    "hyperclick"
+  ],
   "providedServices": {
     "hyperclick.provider": {
       "versions": {

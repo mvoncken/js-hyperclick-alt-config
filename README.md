@@ -5,7 +5,7 @@ Forked from js-hyperclick 1.13.0 (pre release)
 We're using webpack aliases but not every developer uses atom.
 It's not accaptable to pollute package.json with editor-settings.
 
-All documentation below applies except forthe "moduleRoots" config: js-hyperclick.json is used instead of package.json
+All documentation below applies except forthe "moduleRoots" config: .js-hyperclick.json is used instead of package.json
 
 # js-hyperclick package
 
